@@ -1,0 +1,19 @@
+{
+  "name": "codewikiapi",
+  "version": "1.0.0",
+  "description": "Basic API with wikipedia links and the first paragraph of the corresponding page",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Esme Knight",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.7",
+    "express": "^4.18.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.3.1",
+    "nodemon": "^2.0.16"
+  }
+}

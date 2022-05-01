@@ -1,0 +1,105 @@
+[
+    {
+        "_id": "626e76833d40a448455d52d8",
+        "title": "REST",
+        "content": "Representational state transfer (REST) is a software architectural style that was created to guide the design and development of the architecture for the World Wide Web. REST defines a set of constraints for how the architecture of an Internet-scale distributed hypermedia system, such as the Web, should behave. The REST architectural style emphasises the scalability of interactions between components, uniform interfaces, independent deployment of components, and the creation of a layered architecture to facilitate caching components to reduce user-perceived latency, enforce security, and encapsulate legacy systems.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Representational_state_transfer"
+    },
+    {
+        "_id": "626e77313d40a448455d52db",
+        "title": "API",
+        "content": "API stamds for Application Programmming Interface. It is a set of subroutine definitions",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/API"
+    },
+    {
+        "_id": "626e77ef3d40a448455d52dc",
+        "title": "Bootstrap",
+        "content": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and (optionally) JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework)"
+    },
+    {
+        "_id": "626e784a3d40a448455d52dd",
+        "title": "DOM",
+        "content": "The Document Object Model (DOM) is a cross-platform and language-independent interface that treats an XML or HTML document as a tree structure wherein each node is an object representing a part of the document. The DOM represents a document with a logical tree. Each branch of the tree ends in a node, and each node contains objects. DOM methods allow programmatic access to the tree; with them one can change the structure, style or content of a document. Nodes can have event handlers attached to them. Once an event is triggered, the event handlers get executed.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Document_Object_Model"
+    },
+    {
+        "_id": "626e788d3d40a448455d52de",
+        "title": "JavaScript",
+        "content": "JavaScript, often abbreviated JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. Over 97% of websites use JavaScript on the client side for web page behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/JavaScript"
+    },
+    {
+        "_id": "626e78e43d40a448455d52df",
+        "title": "Node.js",
+        "content": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Node.js"
+    },
+    {
+        "_id": "626e7b703d40a448455d52e2",
+        "title": "HTML",
+        "content": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/HTML"
+    },
+    {
+        "_id": "626e7ba03d40a448455d52e3",
+        "title": "CSS",
+        "content": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/CSS"
+    },
+    {
+        "_id": "626e7bd83d40a448455d52e4",
+        "title": "jQuery",
+        "content": "jQuery is a JavaScript library designed to simplify HTML DOM tree traversal and manipulation, as well as event handling, CSS animation, and Ajax.[3] It is free, open-source software using the permissive MIT License.[4] As of May 2019, jQuery is used by 73% of the 10 million most popular websites.[5] Web analysis indicates that it is the most widely deployed JavaScript library by a large margin, having at least 3 to 4 times more usage than any other JavaScript library.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/JQuery"
+    },
+    {
+        "_id": "626e7c1e3d40a448455d52e5",
+        "title": "MongoDB",
+        "content": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License (SSPL). ",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/MongoDB"
+    },
+    {
+        "_id": "626e7c613d40a448455d52e6",
+        "title": "Express.js",
+        "content": "Express.js, or simply Express, is a back end web application framework for Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Express.js"
+    },
+    {
+        "_id": "626e7c813d40a448455d52e7",
+        "title": "Git",
+        "content": "Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development. Its goals include speed, data integrity, and support for distributed, non-linear workflows (thousands of parallel branches running on different systems).",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Git"
+    },
+    {
+        "_id": "626e7cb93d40a448455d52e8",
+        "title": "GitHub",
+        "content": "GitHub, Inc. is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, continuous integration and wikis for every project.[4] Headquartered in California, it has been a subsidiary of Microsoft since 2018.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/GitHub"
+    },
+    {
+        "_id": "626e7d303d40a448455d52e9",
+        "title": "SQL",
+        "content": "SQL (Structured Query Language) is a domain-specific language used in programming and designed for managing data held in a relational database management system (RDBMS), or for stream processing in a relational data stream management system (RDSMS). It is particularly useful in handling structured data, i.e. data incorporating relations among entities and variables. SQL offers two main advantages over older read–write APIs such as ISAM or VSAM. Firstly, it introduced the concept of accessing many records with one single command. Secondly, it eliminates the need to specify how to reach a record, e.g. with or without an index.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/SQL"
+    },
+    {
+        "_id": "626e7d663d40a448455d52ea",
+        "title": "Heroku",
+        "content": "Heroku is a cloud platform as a service (PaaS) supporting several programming languages. One of the first cloud platforms, Heroku has been in development since June 2007, when it supported only the Ruby programming language, but now supports Java, Node.js, Scala, Clojure, Python, PHP, and Go. For this reason, Heroku is said to be a polyglot platform as it has features for a developer to build, run and scale applications in a similar manner across most languages. Heroku was acquired by Salesforce in 2010 for $212 million.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/Heroku"
+    },
+    {
+        "_id": "626e7dc43d40a448455d52eb",
+        "title": "ReactJS",
+        "content": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies. React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.",
+        "wikipedia_link": "https://en.wikipedia.org/wiki/React_(JavaScript_library)"
+    },
+    {
+        "_id": "626ec68b8b4216fafe4f89c5",
+        "title": "test title",
+        "content": "test content",
+        "wikipedia_link": "testlink",
+        "__v": 0
+    }
+]
